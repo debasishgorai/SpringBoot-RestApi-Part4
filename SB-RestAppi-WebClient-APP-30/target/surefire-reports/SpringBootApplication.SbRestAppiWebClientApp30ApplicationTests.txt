@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: SpringBootApplication.SbRestAppiWebClientApp30ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 33.21 s -- in SpringBootApplication.SbRestAppiWebClientApp30ApplicationTests
